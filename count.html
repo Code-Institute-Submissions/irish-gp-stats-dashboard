@@ -24,40 +24,46 @@
 
 
 <body>
-    <h1>GP Stats</h1>
-    
-        <div>
-            <h1>selector</h1>
-            
-            
-            
-             <div id="year-selector"></div>
-            <div id="gender-selector"></div>
-            <div id="province-selector"></div>
-        </div>
-        
-        
-        
-        
-    
-        <div>
-            <h1>Gender</h1>
-            <div id="gender_data_pie"></div>
-        </div>  
 
-    
-        <div>
-            <h1>Province</h1>
-            <div id="province_data_pie"></div>
-        </div>
-        
-        
-           <div>
-            <h1>County</h1>
-            <div id="county_data_barchart"></div>
-        </div>
-        
-    
+<p>Total number of GP visits a year</p>
+<button onclick="myFunction()">Try it</button>
+
+<p>Sum of numbers in array: <span id="countAll"></span></p>
+
+<script>
+
+
+var numbers = [65, 144, 112, 4];
+
+function getSum(total, num) {
+    return total + num;
+}
+
+
+
+function myFunction(item) {
+    document.getElementById("countAll").innerHTML = numbers.reduce(getSum);
+}
+</script>
 
 </body>
+      
+    
+        
+        
+        
+ 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 </html>

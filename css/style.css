@@ -12,3 +12,15 @@ h1 { color:red;}
     font-weight: 500;
 }
 
+#discipline-selector {
+	margin-left: 15px;
+}
+
+
+
+#gender_data_pie {padding-top:  15px;}
+
+
+
+
+#gender_data_pie .legend {padding-top:  15px;}

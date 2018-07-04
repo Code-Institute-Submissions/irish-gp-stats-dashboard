@@ -5,18 +5,68 @@ queue()
     function makeGraphs(error, gpdata) {
         var ndx = crossfilter(gpdata);
     
+    
         
-        
+        show_year_selector(ndx);
+        show_gender_selector(ndx);
+        show_province_selector(ndx);
         
         gender_data_pie(ndx);   
         by_province(ndx);
         by_county(ndx);
-        
-        
+
+
+
+
         dc.renderAll();
          }
+         
+         
+         
+         
+   
+
+
+
+
+         
+         
+         
+
+ function show_year_selector(ndx) {
+    var dim = ndx.dimension(dc.pluck('year'));
+    var group = dim.group();
+    
+    dc.selectMenu("#year-selector")
+        .dimension(dim)
+        .group(group);
+}         
+
+
+function show_gender_selector(ndx) {
+    var dim = ndx.dimension(dc.pluck('gender'));
+    var group = dim.group();
+    
+    dc.selectMenu("#gender-selector")
+        .dimension(dim)
+        .group(group);
+}        
+
+
+function show_province_selector(ndx) {
+    var dim = ndx.dimension(dc.pluck('province'));
+    var group = dim.group();
+    
+    dc.selectMenu("#province-selector")
+        .dimension(dim)
+        .group(group);
+}        
         
         
+        
+       
+               
+
         function gender_data_pie(ndx){
             var name_dim = ndx.dimension(dc.pluck('gender'));
             var home_goals = name_dim.group().reduceSum(dc.pluck('gpvisit'));
@@ -26,10 +76,9 @@ queue()
                 .radius(90)
                 .transitionDuration(1500)
                 .dimension(name_dim)
-                .group(home_goals)
-                .legend(dc.legend());
-                
+                .group(home_goals);
             }
+        
             
             
         
@@ -45,9 +94,12 @@ queue()
                 .group(home_goals);
             }
         
+        
+        
+        
         function by_county(ndx){
-        var name_dim = ndx.dimension(dc.pluck('county'));
-        var home_goals = name_dim.group().reduceSum(dc.pluck('gpvisit'));
+            var name_dim = ndx.dimension(dc.pluck('county'));
+            var home_goals = name_dim.group().reduceSum(dc.pluck('gpvisit'));
         
         dc.barChart("#county_data_barchart")
             .width(500)
@@ -61,3 +113,7 @@ queue()
             .xAxisLabel("County")
             .yAxis().ticks(6);
         }
+        
+
+        
+        
