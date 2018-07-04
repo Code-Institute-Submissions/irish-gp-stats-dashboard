@@ -1,1 +1,14 @@
 h1 { color:red;}
+
+#county_data_barchart .x.axis text {
+    transform: rotate(-90deg);
+    
+
+}
+
+
+.number-box {
+    font-size: 30px;
+    font-weight: 500;
+}
+

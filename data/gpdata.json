@@ -1,0 +1,4994 @@
+[
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 419
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 706
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 496
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 406
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 433
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 316
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 412
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 492
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 373
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 829
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 803
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 598
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 46
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 102
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 933
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 385
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 671
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 135
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 843
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 22
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 880
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 832
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 848
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 954
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 264
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 380
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 920
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 894
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 344
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 506
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 433
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 30
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 250
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 74
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 984
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 350
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 408
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 879
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 609
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 381
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 646
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 838
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 282
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 179
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 927
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 5
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 585
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 113
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 132
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 821
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 578
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 678
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 572
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 372
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 312
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 744
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 490
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 367
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 10
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 486
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 674
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 737
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 709
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 488
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 537
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 322
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 674
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 691
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 275
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 189
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 949
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 385
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 605
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 718
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 509
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 346
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 621
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 614
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 220
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 275
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 336
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 852
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 607
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 936
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 98
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 331
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 502
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 990
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 93
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 419
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 748
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 982
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 677
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 953
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 318
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 956
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 262
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 478
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 144
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 104
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 646
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 287
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 1
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 943
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 431
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 415
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 353
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 887
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 864
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 986
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 205
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 422
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 115
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 775
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 129
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 301
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 973
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 498
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 381
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 892
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 792
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 511
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 156
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 108
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 690
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 600
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 325
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 478
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 293
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 771
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 620
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 862
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 42
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 285
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 566
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 415
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 762
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 647
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 153
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 413
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 81
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 181
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 451
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 52
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 323
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 704
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 206
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 674
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 292
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 599
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 182
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 795
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 281
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 473
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 590
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 248
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 734
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 500
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 853
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 302
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 906
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 935
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 914
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 521
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 638
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 863
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 444
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 729
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 904
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 515
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 724
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 726
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 561
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 753
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 407
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 758
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 629
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 905
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 791
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 287
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 206
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 518
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 718
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 801
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 1000
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 51
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 765
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 899
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 646
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 617
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 741
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 112
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 497
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 161
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 489
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 226
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 618
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 82
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 879
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 238
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 751
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 709
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 742
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 729
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 386
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 65
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 117
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 821
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 704
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 476
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 796
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 665
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 126
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 103
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 666
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 266
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 375
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 117
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 994
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 466
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 52
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 721
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 604
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 378
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 118
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 503
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 169
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 2
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 300
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 2
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 730
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 75
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 510
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 783
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 316
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 781
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 42
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 209
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 296
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 806
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 665
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 446
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 798
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 424
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 636
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 288
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 71
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 352
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 520
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 413
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 403
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 733
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 744
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 747
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 540
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 900
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 359
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 792
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 786
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 426
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 650
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 739
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 450
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 234
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 908
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 835
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 901
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 853
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 793
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 116
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 153
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 726
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 106
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 107
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 526
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 110
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 269
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 386
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 310
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 437
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 126
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 336
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 342
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 733
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 765
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 98
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 384
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 623
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 546
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 672
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 163
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 534
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 612
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 140
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 760
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 606
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 336
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 660
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 752
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 268
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "January",
+   "gender": "Male",
+   "gpvisit": 770
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "February",
+   "gender": "Male",
+   "gpvisit": 259
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "March",
+   "gender": "Male",
+   "gpvisit": 374
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "April",
+   "gender": "Male",
+   "gpvisit": 757
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "May",
+   "gender": "Male",
+   "gpvisit": 1000
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "June",
+   "gender": "Male",
+   "gpvisit": 37
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "July",
+   "gender": "Male",
+   "gpvisit": 181
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "August",
+   "gender": "Male",
+   "gpvisit": 461
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "September",
+   "gender": "Male",
+   "gpvisit": 107
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "October",
+   "gender": "Male",
+   "gpvisit": 903
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "November",
+   "gender": "Male",
+   "gpvisit": 270
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "December",
+   "gender": "Male",
+   "gpvisit": 303
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 988
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 605
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 626
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 230
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 761
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 601
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 674
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 443
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 433
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 805
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 912
+ },
+ {
+   "county": "Carlow",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 333
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 871
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 62
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 726
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 790
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 737
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 799
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 680
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 788
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 720
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 950
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 557
+ },
+ {
+   "county": "Cavan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 622
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 694
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 871
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 655
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 669
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 669
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 916
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 359
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 563
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 945
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 806
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 144
+ },
+ {
+   "county": "Clare",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 47
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 193
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 931
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 819
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 528
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 252
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 986
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 652
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 289
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 336
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 663
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 469
+ },
+ {
+   "county": "Cork",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 111
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 247
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 922
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 430
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 755
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 64
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 851
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 922
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 871
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 151
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 404
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 628
+ },
+ {
+   "county": "Donegal",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 370
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 218
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 159
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 849
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 494
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 228
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 901
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 34
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 352
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 884
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 225
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 761
+ },
+ {
+   "county": "Dublin",
+   "province": "Leinster",
+   "region": "Dublin",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 456
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 466
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 693
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 207
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 454
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 425
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 142
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 286
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 471
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 233
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 32
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 281
+ },
+ {
+   "county": "Galway",
+   "province": "Connacht",
+   "region": "West",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 548
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 984
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 320
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 717
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 941
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 191
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 175
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 221
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 941
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 150
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 678
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 871
+ },
+ {
+   "county": "Kerry",
+   "province": "Munster",
+   "region": "South-West",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 442
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 670
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 57
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 665
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 896
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 35
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 548
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 821
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 795
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 824
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 713
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 568
+ },
+ {
+   "county": "Kildare",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 40
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 833
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 466
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 421
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 498
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 119
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 398
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 344
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 216
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 325
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 571
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 245
+ },
+ {
+   "county": "Kilkenny",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 611
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 330
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 920
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 683
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 33
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 455
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 282
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 175
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 902
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 268
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 684
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 635
+ },
+ {
+   "county": "Laois",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 420
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 351
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 93
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 608
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 198
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 409
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 843
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 786
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 928
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 946
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 505
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 713
+ },
+ {
+   "county": "Leitrim",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 479
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 42
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 421
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 259
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 23
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 937
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 54
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 935
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 625
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 322
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 127
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 487
+ },
+ {
+   "county": "Limerick",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 663
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 269
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 374
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 824
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 528
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 272
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 477
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 231
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 406
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 477
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 776
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 651
+ },
+ {
+   "county": "Longford",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 725
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 993
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 843
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 294
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 661
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 820
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 761
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 560
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 500
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 399
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 303
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 344
+ },
+ {
+   "county": "Louth",
+   "province": "Leinster",
+   "region": "Border",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 579
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 910
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 23
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 917
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 984
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 838
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 240
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 917
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 143
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 256
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 142
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 500
+ },
+ {
+   "county": "Mayo",
+   "province": "Connacht",
+   "region": "West",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 970
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 257
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 930
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 866
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 388
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 594
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 693
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 416
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 878
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 559
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 332
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 948
+ },
+ {
+   "county": "Meath",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 65
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 244
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 294
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 605
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 345
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 688
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 926
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 139
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 358
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 892
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 996
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 682
+ },
+ {
+   "county": "Monaghan",
+   "province": "Ulster",
+   "region": "Border",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 920
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 553
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 614
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 722
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 25
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 977
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 803
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 291
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 786
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 362
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 332
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 358
+ },
+ {
+   "county": "Offaly",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 343
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 908
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 167
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 522
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 163
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 77
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 204
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 228
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 993
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 888
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 361
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 797
+ },
+ {
+   "county": "Roscommon",
+   "province": "Connacht",
+   "region": "West",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 698
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 337
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 365
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 651
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 680
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 447
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 194
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 658
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 568
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 622
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 593
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 671
+ },
+ {
+   "county": "Sligo",
+   "province": "Connacht",
+   "region": "Border",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 281
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 916
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 927
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 434
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 415
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 262
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 14
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 856
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 2
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 345
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 771
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 100
+ },
+ {
+   "county": "Tipperary",
+   "province": "Munster",
+   "region": "Mid-West",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 866
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 386
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 676
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 697
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 224
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 580
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 5
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 601
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 666
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 307
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 540
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 515
+ },
+ {
+   "county": "Waterford",
+   "province": "Munster",
+   "region": "South-East",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 86
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 211
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 23
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 778
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 509
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 592
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 405
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 946
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 292
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 327
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 95
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 129
+ },
+ {
+   "county": "Westmeath",
+   "province": "Leinster",
+   "region": "Midland",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 225
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 108
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 807
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 400
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 747
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 998
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 223
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 390
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 128
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 193
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 109
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 440
+ },
+ {
+   "county": "Wexford",
+   "province": "Leinster",
+   "region": "South-East",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 234
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "January",
+   "gender": "Female",
+   "gpvisit": 423
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "February",
+   "gender": "Female",
+   "gpvisit": 677
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "March",
+   "gender": "Female",
+   "gpvisit": 23
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "April",
+   "gender": "Female",
+   "gpvisit": 448
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "May",
+   "gender": "Female",
+   "gpvisit": 626
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "June",
+   "gender": "Female",
+   "gpvisit": 952
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "July",
+   "gender": "Female",
+   "gpvisit": 315
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "August",
+   "gender": "Female",
+   "gpvisit": 230
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "September",
+   "gender": "Female",
+   "gpvisit": 672
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "October",
+   "gender": "Female",
+   "gpvisit": 468
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "November",
+   "gender": "Female",
+   "gpvisit": 187
+ },
+ {
+   "county": "Wicklow",
+   "province": "Leinster",
+   "region": "Mid-East",
+   "month": "December",
+   "gender": "Female",
+   "gpvisit": 596
+ }
+]
