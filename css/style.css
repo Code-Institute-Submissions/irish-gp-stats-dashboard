@@ -1,26 +1,29 @@
-h1 { color:red;}
+h1 { color:red;
+    text-align: center;
+}
 
-#county_data_barchart .x.axis text {
+h3{ color: blue;
+    text-align:center;
+    text-decoration: underline;
+    padding-bottom: 10px;
+}
+
+
+
+.selector-headers {color: red;}
+
+
+
+
+.pie-section {padding-top: 10px;
+    margin-top: 20px;
+    background-color: lightgrey
+    
+}
+
+
+
+#month_data_barchart .x.axis text {
     transform: rotate(-90deg);
     
-
 }
-
-
-.number-box {
-    font-size: 30px;
-    font-weight: 500;
-}
-
-#discipline-selector {
-	margin-left: 15px;
-}
-
-
-
-#gender_data_pie {padding-top:  15px;}
-
-
-
-
-#gender_data_pie .legend {padding-top:  15px;}
