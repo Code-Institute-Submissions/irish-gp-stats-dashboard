@@ -8,6 +8,7 @@
     
     
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css" type="text/css" />
     <link rel="stylesheet" href="css/style.css" type="text/css" />
@@ -23,30 +24,40 @@
 </head>
 
 
-<body>
-    <h1>GP Stats</h1>
+<body class="bgcolor">
     
-        <div>
-            <h3>Select data</h3>
- 
-              <section class="section">
+    
+    
+    
+    <nav class= "navbar navbar-inverse">
+  
+            <div class="navbar-header">
+              <a target="_blank" href="#" ><i class="fas fa-briefcase-medical fa-4x" style="color:red"></i></a>
+               <h2>Irish GP Stats</h2>
+            </div>
+    </nav>
+    
+              <section class="section" style="background-color: #222">
+                   <h3>Select data</h3>
+                  
                     <div class="container">
                       
                       <div class="row">
-                        <div class="col-xs-12 col-sm-3 text-center">
-                             <p class="section-paragraph">Select year</p>
+                          
+                        <div class="col-xs-12 col-sm-3 text-center" >
+                             <p class="section-paragraph">Year</p>
                         </div>
                           
                         <div class="col-xs-12 col-sm-3 text-center">
-                            <p class="section-paragraph">Select Gender</p>
+                            <p class="section-paragraph">Gender</p>
                         </div>
                           
                         <div class="col-xs-12 col-sm-3 text-center">
-                            <p class="section-paragraph">Select Province</p>           
+                            <p class="section-paragraph">Province</p>           
                         </div>
                                     
                         <div class="col-xs-12 col-sm-3 text-center">
-                            <p class="section-paragraph">Select County</p>           
+                            <p class="section-paragraph">County</p>           
                         </div>            
                                     
                         </div>
@@ -60,43 +71,46 @@
                       </div>
         </section>
         
-        
-        
-        
-           
-        <div>
-            <h1>Gender</h1>
-            <div id="gender_data_pie"></div>
-        </div>  
+        <section class="pie-section">
+                <div class="container">
+                                
+                    <div class="row">
+                        <div class="col-sm-6 text-center" ><h4>Number of GP visits by Gender</h4></div>
+                        <div class="col-sm-6 text-center" ><h4>Number of GP visits by Province</h4></div>
+                      </div>
+                           
+                      <div class="row">
+                        <div class="col-sm-6 text-center" id="gender_data_pie" ></div>
+                        <div class="col-sm-6 text-center" id="province_data_pie" ></div>
+                      </div>
+                    </div>
+ </section>
 
-    
-        <div>
-            <h1>Province</h1>
-            <div id="province_data_pie"></div>
-        </div>
 
-        
+       <section class="bar-section">
+                <div class="container">  
 
-           <div>
-            <h1>Year</h1>
+            <div class="chart_type_1">
+            <h4>Number of GP visits by Year</h4>
             <div id="year_data_barchart"></div>
-        </div>
+            </div>
         
-        
-        
-        
-     <div>
-            <h1>Month</h1>
-            <div id="month_data_barchart"></div>
-        </div>
+            
+            <div class="chart_type_2">
+            <h4>Number of GP visits by Month2</h4>
+            <div id="by_month2"></div>
+            </div>            
+            
+            
+            <div class="chart_type_3">
+            <h4>Number of GP visits by Region</h4>
+            <div id="region_data_barchart"></div>
+            </div>
+            
 
+</div>
 
-
-
-
-
-
-
+ </section>
 
 </body>
 </html>

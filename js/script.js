@@ -5,29 +5,20 @@ queue()
     function makeGraphs(error, gpdata) {
         var ndx = crossfilter(gpdata);
     
-    
-        
         show_year_selector(ndx);
         show_gender_selector(ndx);
         show_province_selector(ndx);
         show_county_selector(ndx);
         
-        
         gender_data_pie(ndx);   
         by_province(ndx);
         by_year(ndx);
-        by_month(ndx);
+        by_month2(ndx);
         by_region(ndx);
-
-
-
 
         dc.renderAll();
          }
          
-         
-
-
         function show_year_selector(ndx) {
             var dim = ndx.dimension(dc.pluck('year'));
             var group = dim.group();
@@ -67,12 +58,6 @@ queue()
                 .group(group);
             }
 
-        
-        
-        
-       
-               
-
         function gender_data_pie(ndx){
             var name_dim = ndx.dimension(dc.pluck('gender'));
             var home_goals = name_dim.group().reduceSum(dc.pluck('gpvisit'));
@@ -87,10 +72,6 @@ queue()
                 
             }
         
-
-        
-        
-
         function by_province(ndx){
             var name_dim = ndx.dimension(dc.pluck('province'));
             var home_goals = name_dim.group().reduceSum(dc.pluck('gpvisit'));
@@ -103,10 +84,7 @@ queue()
                 .group(home_goals)
                 .colors(d3.scale.ordinal().range(["#bbff99","#ffff99","#ffb3b3","#b3ccff"]));
             }
-        
-        
-        
-        
+            
         function by_year(ndx){
             var name_dim = ndx.dimension(dc.pluck('year'));
             var home_goals = name_dim.group().reduceSum(dc.pluck('gpvisit'));
@@ -124,54 +102,45 @@ queue()
                 .gap(20)
                 .yAxisLabel("Number of GP visits")
                 .elasticY(true)
-                .colors(d3.scale.ordinal().range(["#ffff99"]));
+                .colors(d3.scale.ordinal()
+                .range(["#ffff99"]));
             }
-            
 
-        function by_month(ndx){
-            var name_dim = ndx.dimension(dc.pluck('month'));
+                         function by_month2 (ndx){
+                    var name_dim = ndx.dimension(dc.pluck('month'));
+                    var home_goals = name_dim.group().reduceSum(dc.pluck('gpvisit'));
+        
+                    dc.rowChart("#by_month2")
+                      .width(550)
+                      .height(250)
+                      .margins({top: 20, left: 15, right: 10, bottom: 20})
+                      .dimension(name_dim)
+                      .group(home_goals)
+                      .elasticX(true)
+                      .x(d3.scale.ordinal())
+                      ;
+                 }
+
+        function by_region(ndx){
+            var name_dim = ndx.dimension(dc.pluck('region'));
             var home_goals = name_dim.group().reduceSum(dc.pluck('gpvisit'));
         
-            dc.barChart("#month_data_barchart")
+            dc.barChart("#region_data_barchart")
                 .width(500)
-                .height(200)
-                .margins({top: 10, right: 50, bottom: 30, left: 100})
+                .height(300)
+                .margins({top: 10, right: 50, bottom: 70, left: 100})
                 .dimension(name_dim)
                 .group(home_goals)
                 .transitionDuration(500)
                 .x(d3.scale.ordinal())
                 .xUnits(dc.units.ordinal)
-                .xAxisLabel("Year")
+                .xAxisLabel("Month")
                 .gap(5)
                 .yAxisLabel("Number of GP visits")
                 .elasticY(true)
+                .elasticX(true)
                 .colors(d3.scale.ordinal().range(["#bbff99"]))
                 .selectAll("text")  
                 ;
                 
             }
-            
-            
-            
-            
-    
-        
-        
-        
-        
-
- function by_region(ndx){
-            var name_dim = ndx.dimension(dc.pluck('region'));
-            var home_goals = name_dim.group().reduceSum(dc.pluck('gpvisit'));
-
-dc.rowChart("#region_rowchart")
-  .width(550)
-  .height(250)
-  .margins({top: 20, left: 15, right: 10, bottom: 20})
-  .dimension(name_dim)
-  .group(home_goals)
-  .elasticX(true)
-  .x(d3.scale.ordinal())  
-  ;
- }
-        

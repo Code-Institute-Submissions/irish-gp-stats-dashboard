@@ -1,49 +1,64 @@
-body{background-color: #676767;
-text-align: center
-}
 
-
-
-h1 { color:red;
-    text-align: center;
-}
-
-h3{ color: blue;
-    text-align:center;
-    text-decoration: underline;
-    padding-bottom: 10px;
-}
+/* ....................Nav Bar ........................... */
 
 h2{color: red;
     font-size: 40px
 }
 
+.navbar-header{width: 100%;
+    float: left;
+    padding: 0;
+    list-style: none;
+}
 
-.navbar-header{ text-align:  center;}
+/* ....................Select Menu ........................... */
 
+h3{ color: red;
+    text-align:center;
+    text-decoration: underline;
+    padding-bottom: 10px;
+}
+
+.section-paragraph {color: white;
+}
+
+/* ....................Body ........................... */
+
+body{background-color: #222;
+text-align: center
+}
+
+/* ....................Charts ........................... */
+
+.chart_type_1{padding: 20px;
+            margin: 20px;
+    
+}
+
+.chart_type_3.x.axis {padding: 20px;
+            margin: 20px;
+}
+
+h4 { color:red;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
 
 .pie-section {padding-top: 10px;
     margin-top: 10px;
-    background-color: lightgrey
+    background-color: lightgrey;
     
 }
-
-
 
 .bar-section {padding-top: 10px;
     padding-bottom: 100px;
-    background-color: lightgrey
+    background-color: lightgrey;
     
 }
 
-#month_data_barchart .x.axis text {
-    transform: rotate(-90deg);
-    
+#region_data_barchart .x.axis text {
+    transform: rotate(-65deg);
+    text-anchor: end !important;
 }
 
-
-
- #region_rowchart .x.axis text {
-    transform: rotate(-90deg);
-    
-}
