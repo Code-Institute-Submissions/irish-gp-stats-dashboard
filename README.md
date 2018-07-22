@@ -1,3 +1,5 @@
-EPL project
+ This one-page Dashboard break out Irish recorded GP visits by
 
-want to set data with EPL stats
+Date 
+Gender 
+Location
